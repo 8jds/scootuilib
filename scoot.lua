@@ -5223,8 +5223,8 @@ local Library do
                 AnchorPoint = Vector2New(0.5, 0),
                 Image = "rbxassetid://" .. Window.Logo,
                 BackgroundTransparency = 1,
-                Position = UDim2New(0.5, 0, 0, -40),
-                Size = UDim2New(0, 260, 0, 260),
+                Position = UDim2New(0.5, 0, 0, -45),
+                Size = UDim2New(0, 230, 0, 230),
                 BorderSizePixel = 0,
                 BackgroundColor3 = FromRGB(255, 255, 255)
             })  Items["Logo"]:AddToTheme({ImageColor3 = "Accent"})
