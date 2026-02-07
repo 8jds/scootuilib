@@ -5224,7 +5224,7 @@ local Library do
                 Image = "rbxassetid://" .. Window.Logo,
                 BackgroundTransparency = 1,
                 Position = UDim2New(0.5, 0, 0, 12),
-                Size = UDim2New(0, 75, 0, 75),
+                Size = UDim2New(0, 125, 0, 125),
                 BorderSizePixel = 0,
                 BackgroundColor3 = FromRGB(255, 255, 255)
             })  Items["Logo"]:AddToTheme({ImageColor3 = "Accent"})
