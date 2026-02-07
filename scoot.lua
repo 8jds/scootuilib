@@ -5223,8 +5223,8 @@ local Library do
                 AnchorPoint = Vector2New(0.5, 0),
                 Image = "rbxassetid://" .. Window.Logo,
                 BackgroundTransparency = 1,
-                Position = UDim2New(0.5, 0, 0, 12),
-                Size = UDim2New(0, 125, 0, 125),
+                Position = UDim2New(0.5, 0, 0, 2),
+                Size = UDim2New(0, 140, 0, 140),
                 BorderSizePixel = 0,
                 BackgroundColor3 = FromRGB(255, 255, 255)
             })  Items["Logo"]:AddToTheme({ImageColor3 = "Accent"})
@@ -5290,9 +5290,9 @@ local Library do
                 Parent = Items["Side"].Instance,
                 Name = "\0",
                 BackgroundTransparency = 1,
-                Position = UDim2New(0, 0, 0, 100),
+                Position = UDim2New(0, 0, 0, 150),
                 BorderColor3 = FromRGB(0, 0, 0),
-                Size = UDim2New(1, 0, 1, -135),
+                Size = UDim2New(1, 0, 1, -185),
                 BorderSizePixel = 0,
                 BackgroundColor3 = FromRGB(255, 255, 255)
             })
